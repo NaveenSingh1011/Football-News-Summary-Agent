@@ -1,0 +1,7 @@
+groq
+requests
+gradio
+trafilatura
+langgraph
+langchain-core
+langchain-groq
